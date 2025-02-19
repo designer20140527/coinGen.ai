@@ -1,0 +1,35 @@
+@keyframes float1 {
+  0% {
+    transform: translate(-50%, -50%);
+  }
+  25% {
+    transform: translate(-45%, -45%);
+  }
+  50% {
+    transform: translate(-50%, -55%);
+  }
+  75% {
+    transform: translate(-55%, -45%);
+  }
+  100% {
+    transform: translate(-50%, -50%);
+  }
+}
+
+@keyframes float2 {
+  0% {
+    transform: translate(-50%, -50%);
+  }
+  25% {
+    transform: translate(-55%, -45%);
+  }
+  50% {
+    transform: translate(-50%, -55%);
+  }
+  75% {
+    transform: translate(-45%, -45%);
+  }
+  100% {
+    transform: translate(-50%, -50%);
+  }
+}
