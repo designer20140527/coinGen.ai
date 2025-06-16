@@ -510,7 +510,7 @@ export default function Page() {
               >
                 Telegram
               </a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
+              <a href="https://www.dextools.io/app/en/solana/pair-explorer/BCKbHJjMHtrDTVKJeWx3Au2E8iuskTFv1BKoPyGVm1YH?t=1750025469480" target="_blank" className="text-gray-400 hover:text-white transition-colors">
                 Dextools
               </a>
             </div>
