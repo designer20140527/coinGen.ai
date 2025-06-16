@@ -410,8 +410,8 @@ export default function Page() {
             {[
               { img: 'icon-1.png', link: 'https://t.me/coinGenAI_Official' },
               { img: 'icon-2.png', link: 'https://x.com/coinGenAI_' },
-              { img: 'icon-3.png', link: '' },
-              { img: 'icon-4.png', link: '' },
+              { img: 'icon-3.png', link: 'https://www.dextools.io/app/en/solana/pair-explorer/BCKbHJjMHtrDTVKJeWx3Au2E8iuskTFv1BKoPyGVm1YH?t=1750025469480' },
+              { img: 'icon-4.png', link: 'https://dexscreener.com/solana/BCKbHJjMHtrDTVKJeWx3Au2E8iuskTFv1BKoPyGVm1YH' },
             ].map((item, i) => (
               <div key={i} className="group">
                 {item.link ? (
