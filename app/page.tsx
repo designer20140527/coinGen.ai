@@ -203,9 +203,15 @@ export default function Page() {
             </p>
 
             {/* CTA Button */}
+            <Link 
+            href="https://www.dextools.io/app/en/solana/pair-explorer/BCKbHJjMHtrDTVKJeWx3Au2E8iuskTFv1BKoPyGVm1YH?t=1750025469480" 
+            target="_blank"
+            rel="noopener noreferrer"
+            >
             <Button className="bg-[#695FE2] hover:bg-[#5648d1] text-white text-lg px-10 py-6 h-auto rounded-full transition-all duration-300 ease-in-out transform hover:scale-105">
-              Start Analyzing
+              DEXTools
             </Button>
+            </Link>
 
             {/* Demo Image */}
             <div className="mt-20 relative transform-gpu" 
